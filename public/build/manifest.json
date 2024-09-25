@@ -1,0 +1,17 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.ab93cf8a.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/dashboard.js": {
+    "file": "assets/dashboard.a85317c4.js",
+    "src": "resources/js/dashboard.js",
+    "isEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.a253cda6.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  }
+}
